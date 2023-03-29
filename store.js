@@ -1,0 +1,340 @@
+export default {
+   filter: {
+    "brands":{
+       "aosen":{
+          "title":"Aosen",
+          "elite":false,
+          "link":"https:\/\/vezemkolesa.ru\/tyres\/aosen\/leto",
+          "count":32,
+          "available":true
+       },
+       "belsina":{
+          "title":"Белшина",
+          "elite":false,
+          "link":"https:\/\/vezemkolesa.ru\/tyres\/belsina\/leto",
+          "count":35,
+          "available":true
+       },
+       "bfgoodrich":{
+          "title":"Bfgoodrich",
+          "elite":false,
+          "link":"https:\/\/vezemkolesa.ru\/tyres\/bfgoodrich\/leto",
+          "count":202,
+          "available":true
+       },
+       "bkt":{
+          "title":"Bkt",
+          "elite":false,
+          "link":"https:\/\/vezemkolesa.ru\/tyres\/bkt\/leto",
+          "count":1,
+          "available":true
+       },
+       "blacklion":{
+          "title":"Blacklion",
+          "elite":false,
+          "link":"https:\/\/vezemkolesa.ru\/tyres\/blacklion\/leto",
+          "count":0,
+          "available":false
+       },
+       
+    },
+    "season":{
+       "Зимние":{
+          "title":"Зимние",
+          "link":"https:\/\/vezemkolesa.ru\/tyres\/zima",
+          "count":13065,
+          "available":true
+       },
+       "Летние":{
+          "title":"Летние",
+          "link":null,
+          "count":16250,
+          "available":true
+       }
+    },
+    "model":[
+       
+    ],
+    "width":{
+       "205":{
+          "title":205,
+          "value":205,
+          "link":null,
+          "count":10,
+          "available":true
+       },
+       "235":{
+          "title":235,
+          "value":235,
+          "link":null,
+          "count":1,
+          "available":true
+       },
+       "225":{
+          "title":225,
+          "value":225,
+          "link":null,
+          "count":27,
+          "available":true
+       },
+       "245":{
+          "title":245,
+          "value":245,
+          "link":null,
+          "count":1,
+          "available":true
+       },
+     
+    },
+    "height":{
+       "10":{
+          "title":10,
+          "value":10,
+          "link":null,
+          "count":5,
+          "available":true
+       },
+       "10.5":{
+          "title":"10.5",
+          "value":"10.5",
+          "link":null,
+          "count":19,
+          "available":true
+       },
+       "11":{
+          "title":11,
+          "value":11,
+          "link":null,
+          "count":4,
+          "available":true
+       },
+       "11.5":{
+          "title":"11.5",
+          "value":"11.5",
+          "link":null,
+          "count":6,
+          "available":true
+       },
+       
+    },
+    
+    "diameter":{
+       "12":{
+          "title":12,
+          "value":12,
+          "link":null,
+          "count":38,
+          "available":true
+       },
+       "13":{
+          "title":13,
+          "value":13,
+          "link":null,
+          "count":325,
+          "available":true
+       },
+       "14":{
+          "title":14,
+          "value":14,
+          "link":null,
+          "count":877,
+          "available":true
+       },
+       "15":{
+          "title":15,
+          "value":15,
+          "link":null,
+          "count":1993,
+          "available":true
+       },
+    }
+  },
+
+   tyres: {
+    "937dd33d-b0c1-11ec-8116-f3e78d20d688":{
+       "ID":"937dd33d-b0c1-11ec-8116-f3e78d20d688",
+       "Article":"CTS228014",
+       "Slug":"shina-letnyaya-triangle-tr259-23555-r19-105w-CTS228014",
+       "Name":"Шина летняя Triangle TR259 235\/55 R19 105W",
+       "BrandName":"Triangle",
+       "BrandCode":"triangle",
+       "ModelName":"TR259",
+       "ModelCode":"tr259",
+       "Width":235,
+       "Height":55,
+       "Diameter":19,
+       "Season":"Летние",
+       "Spikes":false,
+       "SpeedIndex":"W",
+       "LoadIndex":"105",
+       "XL":false,
+       "RunFlat":false,
+       "Score":200,
+       "TyreSizeID":41,
+       "IsCargo":false,
+       "IsSuv":false,
+       "RegionCounts":{
+          "42":10
+       },
+       "Picture":"https:\/\/nik-auto.storage.yandexcloud.net\/vezemkolesa\/product_model\/triangle\/tr259\/tr259%3A1_watermark.jpg",
+       "ProductGuid":"72035383-d50e-46fa-8e28-2d3395f994b6",
+       "Tags":{
+          "popular":true
+       },
+       "Sales":[
+          5,
+          6,
+          10,
+          9
+       ],
+       "Price":"8 110",
+       "IsAvailable":true,
+       "BrandLogo":"https:\/\/storage.yandexcloud.net\/nik-auto\/vezemkolesa\/www\/assets\/trademark\/tire\/Triangle.jpg",
+       "Brand":{
+          "id":36,
+          "title":"Triangle",
+          "slug":"triangle",
+          "logo":"https:\/\/storage.yandexcloud.net\/nik-auto\/vezemkolesa\/www\/assets\/trademark\/tire\/Triangle.jpg"
+       }
+    },
+    "534d9460-7e96-11ec-810e-005056bc50fa":{
+       "ID":"534d9460-7e96-11ec-810e-005056bc50fa",
+       "Article":"T432273",
+       "Slug":"shina-letnyaya-nokian-tyres-hakka-blue-3-20555-r16-94v-xl-T432273",
+       "Name":"Шина летняя Nokian Tyres Hakka Blue 3 205\/55 R16 94V XL",
+       "BrandName":"Nokian Tyres",
+       "BrandCode":"nokian-tyres",
+       "ModelName":"Hakka Blue 3",
+       "ModelCode":"hakka-blue-3",
+       "Width":205,
+       "Height":55,
+       "Diameter":16,
+       "Season":"Летние",
+       "Spikes":false,
+       "SpeedIndex":"V",
+       "LoadIndex":"94",
+       "XL":true,
+       "RunFlat":false,
+       "Score":200,
+       "TyreSizeID":3,
+       "IsCargo":false,
+       "IsSuv":false,
+       "RegionCounts":{
+          "36":20,
+          "42":165,
+          "66":0
+       },
+       "Picture":"https:\/\/storage.yandexcloud.net\/nik-auto\/vezemkolesa\/www\/assets\/catalog\/tyre\/Nokian\/Hakka-Blue-3\/hakka_blue_3\/hakka_blue_3_watermark",
+       "ProductGuid":"a20241a7-d77d-40a2-9733-839ba3b1e793",
+       "Tags":{
+          "popular":true
+       },
+       "Sales":[
+          7,
+          10
+       ],
+       "Price":"5 640",
+       "IsAvailable":true,
+       "BrandLogo":"https:\/\/storage.yandexcloud.net\/nik-auto\/vezemkolesa\/www\/assets\/trademark\/tire\/Nokian Tyres.jpg",
+       "Brand":{
+          "id":23,
+          "title":"Nokian Tyres",
+          "slug":"nokian-tyres",
+          "logo":"https:\/\/storage.yandexcloud.net\/nik-auto\/vezemkolesa\/www\/assets\/trademark\/tire\/Nokian Tyres.jpg"
+       }
+    },
+    "5977e993-7e96-11ec-810e-005056bc50fa":{
+       "ID":"5977e993-7e96-11ec-810e-005056bc50fa",
+       "Article":"T432304",
+       "Slug":"shina-letnyaya-nokian-tyres-hakka-blue-3-suv-23555-r18-100v-T432304",
+       "Name":"Шина летняя Nokian Tyres Hakka Blue 3 SUV 235\/55 R18 100V",
+       "BrandName":"Nokian Tyres",
+       "BrandCode":"nokian-tyres",
+       "ModelName":"Hakka Blue 3 SUV",
+       "ModelCode":"hakka-blue-3-suv",
+       "Width":235,
+       "Height":55,
+       "Diameter":18,
+       "Season":"Летние",
+       "Spikes":false,
+       "SpeedIndex":"V",
+       "LoadIndex":"100",
+       "XL":false,
+       "RunFlat":false,
+       "Score":200,
+       "TyreSizeID":66,
+       "IsCargo":false,
+       "IsSuv":true,
+       "RegionCounts":{
+          "36":0,
+          "42":12
+       },
+       "Picture":"https:\/\/storage.yandexcloud.net\/nik-auto\/vezemkolesa\/www\/assets\/catalog\/tyre\/Nokian\/Hakka-Blue-3-SUV\/hakka_blue_3_suv_watermaker.jpg",
+       "ProductGuid":"f3433716-3cb2-44e4-a8f7-12c63bbc4752",
+       "Tags":{
+          "popular":true
+       },
+       "Sales":[
+          5,
+          6,
+          7,
+          10,
+          9
+       ],
+       "Price":"13 020",
+       "IsAvailable":true,
+       "BrandLogo":"https:\/\/storage.yandexcloud.net\/nik-auto\/vezemkolesa\/www\/assets\/trademark\/tire\/Nokian Tyres.jpg",
+       "Brand":{
+          "id":23,
+          "title":"Nokian Tyres",
+          "slug":"nokian-tyres",
+          "logo":"https:\/\/storage.yandexcloud.net\/nik-auto\/vezemkolesa\/www\/assets\/trademark\/tire\/Nokian Tyres.jpg"
+       }
+    },
+    "72391797-7e96-11ec-810e-005056bc50fa":{
+       "ID":"72391797-7e96-11ec-810e-005056bc50fa",
+       "Article":"T432328",
+       "Slug":"shina-letnyaya-nokian-tyres-nordman-sx3-18565-r15-88h-T432328",
+       "Name":"Шина летняя Nokian Tyres Nordman SX3 185\/65 R15 88H",
+       "BrandName":"Nokian Tyres",
+       "BrandCode":"nokian-tyres",
+       "ModelName":"Nordman SX3",
+       "ModelCode":"nordman-sx3",
+       "Width":185,
+       "Height":65,
+       "Diameter":15,
+       "Season":"Летние",
+       "Spikes":false,
+       "SpeedIndex":"H",
+       "LoadIndex":"88",
+       "XL":false,
+       "RunFlat":false,
+       "Score":200,
+       "TyreSizeID":1,
+       "IsCargo":false,
+       "IsSuv":false,
+       "RegionCounts":{
+          "36":58,
+          "42":198,
+          "66":0
+       },
+       "Picture":"https:\/\/storage.yandexcloud.net\/nik-auto\/vezemkolesa\/www\/assets\/catalog\/tyre\/Nokian\/nordman_sx3\/nordman_sx3_watermark",
+       "ProductGuid":"44eed237-5e28-46e9-9d8a-efeca9ec63c7",
+       "Tags":{
+          "popular":true
+       },
+       "Sales":[
+          10
+       ],
+       "Price":"3 850",
+       "IsAvailable":true,
+       "BrandLogo":"https:\/\/storage.yandexcloud.net\/nik-auto\/vezemkolesa\/www\/assets\/trademark\/tire\/Nokian Tyres.jpg",
+       "Brand":{
+          "id":23,
+          "title":"Nokian Tyres",
+          "slug":"nokian-tyres",
+          "logo":"https:\/\/storage.yandexcloud.net\/nik-auto\/vezemkolesa\/www\/assets\/trademark\/tire\/Nokian Tyres.jpg"
+       }
+    },
+  }
+}
